@@ -1,0 +1,17 @@
+CodeMirror pre {font-family: 'Open Sans'; font-size: 12pt;}
+
+.container {
+  font-size: 12pt;
+  line-height: 1.6;  
+}
+
+/*p {
+  font-size: 12pt;
+  line-height: 1.6;
+}
+*/
+.alert-info {
+  /*line-height: 1.6;*/
+  font-size: 11pt;
+  padding: 12px 20px;
+}
